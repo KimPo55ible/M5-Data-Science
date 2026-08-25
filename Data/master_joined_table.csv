@@ -1,0 +1,13 @@
+year,area,accom_unsuitable_count,accom_unsuitable_pct,homeless_count,total_owed,homeless_pct_of_all
+2019,England,,,2790.0,269510.0,1.04
+2020,England,,,3390.0,289800.0,1.17
+2021,England,1740,5,3290.0,270560.0,1.22
+2022,England,1850,6,3390.0,279470.0,1.21
+2023,England,1950,6,3740.0,300910.0,1.24
+2024,England,2050,6,4330.0,327410.0,1.32
+2025,England,2040,5,4610.0,330410.0,1.4
+2021,Manchester,45,9,,,
+2022,Manchester,34,6,,,
+2023,Manchester,33,5,,,
+2024,Manchester,36,5,44.0,5879.0,0.75
+2025,Manchester,43,6,36.0,4701.0,0.77
